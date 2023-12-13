@@ -2,7 +2,7 @@
 - 👀 I’m interested in OneShot
 - 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me: @Barra#0001
+- 📫 How to reach me: thatlostbarracuda on Discord
 
 <!---
 BawwaKatsu/BawwaKatsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
